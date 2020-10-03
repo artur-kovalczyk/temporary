@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artslideshows\views\templates\hook\list.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="c82324ebbcea34f55627a897b37190e3">
+        <source>Slides list</source>
+        <target>Slides list</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artslideshows\views\templates\hook\list.tpl:25</note>
+      </trans-unit>
+      <trans-unit id="ef61fb324d729c341ea8ab9901e23566">
+        <source>Add new</source>
+        <target>Add new</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artslideshows\views\templates\hook\list.tpl:28</note>
+      </trans-unit>
+      <trans-unit id="379a88861412d686cfaf475c84a24920">
+        <source>Shared slide</source>
+        <target>Shared slide</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artslideshows\views\templates\hook\list.tpl:51</note>
+      </trans-unit>
+      <trans-unit id="7dce122004969d56ae2e0245cb754d35">
+        <source>Edit</source>
+        <target>Edit</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artslideshows\views\templates\hook\list.tpl:62</note>
+      </trans-unit>
+      <trans-unit id="f2a6c498fb90ee345d997f888fce3b18">
+        <source>Delete</source>
+        <target>Delete</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artslideshows\views\templates\hook\list.tpl:67</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artestimonials\views\templates\front\all_testimonials.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="5289f1a930358cba4623a7234db5c71e">
+        <source>Testimonial</source>
+        <target>Testimonial</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artestimonials\views\templates\front\all_testimonials.tpl:23</note>
+      </trans-unit>
+      <trans-unit id="8383641ccae5341c78d5e45860d46eca">
+        <source>Submit Testimonial</source>
+        <target>Submit Testimonial</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artestimonials\views\templates\front\all_testimonials.tpl:24</note>
+      </trans-unit>
+      <trans-unit id="326ad2d69a86641b8e4082bcdad7c16e">
+        <source>Current testimonial</source>
+        <target>Current testimonial</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artestimonials\views\templates\front\all_testimonials.tpl:28</note>
+      </trans-unit>
+      <trans-unit id="0a9835d8105095deadc6029f48aa490a">
+        <source>Other testimonials</source>
+        <target>Other testimonials</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artestimonials\views\templates\front\all_testimonials.tpl:72</note>
+      </trans-unit>
+      <trans-unit id="dd1f775e443ff3b9a89270713580a51b">
+        <source>Previous</source>
+        <target>Previous</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artestimonials\views\templates\front\all_testimonials.tpl:123</note>
+      </trans-unit>
+      <trans-unit id="10ac3d04253ef7e1ddc73e6091c0cd55">
+        <source>Next</source>
+        <target>Next</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artestimonials\views\templates\front\all_testimonials.tpl:148</note>
+      </trans-unit>
+      <trans-unit id="e0aa021e21dddbd6d8cecec71e9cf564">
+        <source>OK</source>
+        <target>OK</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artestimonials\views\templates\front\all_testimonials.tpl:155</note>
+      </trans-unit>
+      <trans-unit id="6c583afb157e33bfb5b7c3d4114c4dd5">
+        <source>items:</source>
+        <target>items:</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artestimonials\views\templates\front\all_testimonials.tpl:156</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artestimonials\views\templates\front\form_submit.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="605c17e87f76d40e75f6049e4ecda385">
+        <source>Add new testimonial</source>
+        <target>Add new testimonial</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artestimonials\views\templates\front\form_submit.tpl:5</note>
+      </trans-unit>
+      <trans-unit id="614cffa523202658a898e34a5d94d05e">
+        <source>Your Name</source>
+        <target>Your Name</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artestimonials\views\templates\front\form_submit.tpl:18</note>
+      </trans-unit>
+      <trans-unit id="01557660faa28f8ec65992d1ddbb7b79">
+        <source>Your Email</source>
+        <target>Your Email</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artestimonials\views\templates\front\form_submit.tpl:25</note>
+      </trans-unit>
+      <trans-unit id="1c76cbfe21c6f44c1d1e59d54f3e4420">
+        <source>Company</source>
+        <target>Company</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artestimonials\views\templates\front\form_submit.tpl:34</note>
+      </trans-unit>
+      <trans-unit id="dd7bf230fde8d4836917806aff6a6b27">
+        <source>Address</source>
+        <target>Address</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artestimonials\views\templates\front\form_submit.tpl:41</note>
+      </trans-unit>
+      <trans-unit id="3e868a2ccb4cd4a8b61129bf3273c3ee">
+        <source>Media Link</source>
+        <target>Media Link</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artestimonials\views\templates\front\form_submit.tpl:47</note>
+      </trans-unit>
+      <trans-unit id="2f56b4f336dc97edf739bf79523fb9a6">
+        <source>Multimedia</source>
+        <target>Multimedia</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artestimonials\views\templates\front\form_submit.tpl:55</note>
+      </trans-unit>
+      <trans-unit id="f15c1cae7882448b3fb0404682e17e61">
+        <source>Content</source>
+        <target>Content</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artestimonials\views\templates\front\form_submit.tpl:61</note>
+      </trans-unit>
+      <trans-unit id="45d048c35e3cfd449dc0a1b503cd103a">
+        <source>Captcha</source>
+        <target>Captcha</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artestimonials\views\templates\front\form_submit.tpl:67</note>
+      </trans-unit>
+      <trans-unit id="70b29c4920daf4e51e8175179027e668">
+        <source>captcha</source>
+        <target>captcha</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artestimonials\views\templates\front\form_submit.tpl:72</note>
+      </trans-unit>
+      <trans-unit id="b9ab79eae8d12f8f3176c99d3c1756ca">
+        <source>Send Your Testimonial</source>
+        <target>Send Your Testimonial</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artestimonials\views\templates\front\form_submit.tpl:77</note>
+      </trans-unit>
+      <trans-unit id="94966d90747b97d1f0f206c98a8b1ac3">
+        <source>Send</source>
+        <target>Send</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artestimonials\views\templates\front\form_submit.tpl:77</note>
+      </trans-unit>
+      <trans-unit id="d3d7e584319ea860367cbbdbfb94ad5b">
+        <source>* required field</source>
+        <target>* required field</target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\artestimonials\views\templates\front\form_submit.tpl:79</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\xipblogdisplayposts\views\templates\front\xipblogdisplayleftposts.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="a5c22ff3efbced22c34bd7b7dd482a6d">
+        <source><![CDATA[Read More >>]]></source>
+        <target><![CDATA[Read More >>]]></target>
+        <note>Context:
+File: F:\xampp\htdocs\art_plantmore\themes\theme_artur1\modules\xipblogdisplayposts\views\templates\front\xipblogdisplayleftposts.tpl:27</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
