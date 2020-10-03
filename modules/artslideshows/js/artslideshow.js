@@ -12,7 +12,7 @@ jQuery(document).ready(function ($) {
 			boxCols: 8,
 			boxRows: 4,
 			animSpeed: 600,
-			pauseTime: POSSLIDESHOW_SPEED,
+			pauseTime: ARTSLIDESHOW_SPEED,
 			startSlide: 0,
 			directionNav: true,
 			controlNav: true,
